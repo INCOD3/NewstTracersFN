@@ -13,7 +13,6 @@ C:\Users\%username%\AppData\Local\EpicGamesLauncher\Saved\webcache\Cache\f_00009
 C:\Users\%username%\AppData\Local\EpicGamesLauncher\Saved\webcache\IndexedDB\https_www.epicgames.com_0.indexeddb.leveldb\LOG.old~RF22a9a8
 C:\Users\%username%\AppData\Local\EpicGamesLauncher\Saved\webcache\IndexedDB\https_www.epicgames.com_0.indexeddb.leveldb\LOG
 C:\Users\%username%\AppData\Local\EpicGamesLauncher\Saved\webcache\IndexedDB\https_www.epicgames.com_0.indexeddb.leveldb
-C:\ProgramFiles(x86)\RazerChromaSDK\logs\.exe
 C:\Users\%username%\AppData\Local\NVIDIACorporation\GeForceNOW\logs\NvContainer\MessageBus_15248_0x2261E17F060
 C:\Users\%username%\AppData\Local\EpicGamesLauncher\Saved\webcache\ServiceWorker\CacheStorage\e60030e2e5440743857a39cacd8634434c91f1\index.txt
 C:\Users\%username%\AppData\Local\EpicGamesLauncher\Saved\webcache\ServiceWorker\CacheStorage\e60030e2e5440743857a39cacd8634434c91f1\index.txt~RF22bd20
