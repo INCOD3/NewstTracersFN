@@ -1,5 +1,5 @@
 ![png one](https://i.imgur.com/fsAOQ8K.png)
-# From YTMcGamer, Join the [Discord](https://discord.gg/rxFGksG)
+# From YTMcGamer, Join the [Discord](https://discord.gg/9SCDU8q)
 
 
 ```bat
